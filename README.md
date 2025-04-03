@@ -26,10 +26,10 @@ Everyday Culture is a web-based platform designed to educate and engage users by
 ✔️ Engaging multimedia elements (videos, animations, images)
 🚀 How to Use
 
-    Clone the repository
+    1. Clone the repository
 
-    Open the project in your preferred IDE
+    2. Open the project in your preferred IDE
 
-    Run the ASP.NET server
+    3. Run the ASP.NET server
 
-    Explore cultural content and interact with features
+    4. Explore cultural content and interact with features
