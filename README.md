@@ -9,7 +9,7 @@ A web platform showcasing the cultural richness of different countries through i
 Everyday Culture is a web-based platform designed to educate and engage users by providing detailed insights into global traditions, festivals, food, and customs. The project integrates multimedia elements such as high-resolution images, videos, and animations to create an immersive experience.
 🛠️ Technologies Used
 
-    Frontend: HTML, CSS
+    Frontend: HTML, CSS , JavaScript
 
     Backend: ASP.NET
 
