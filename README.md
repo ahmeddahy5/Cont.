@@ -1,6 +1,9 @@
 Everyday Culture 🌍🎭
 
 A web platform showcasing the cultural richness of different countries through interactive and visually appealing content.
+
+
+
 📌 About the Project
 
 Everyday Culture is a web-based platform designed to educate and engage users by providing detailed insights into global traditions, festivals, food, and customs. The project integrates multimedia elements such as high-resolution images, videos, and animations to create an immersive experience.
@@ -16,14 +19,24 @@ Everyday Culture is a web-based platform designed to educate and engage users by
 
     Testing Tools: BrowserStack
 
+
+
 🔥 Features
 
 ✔️ Interactive homepage with cultural highlights
+
 ✔️ Dedicated country pages with detailed content
+
 ✔️ Responsive design for all devices
+
 ✔️ User authentication (Login & Registration)
+
 ✔️ Contact form with email integration
+
 ✔️ Engaging multimedia elements (videos, animations, images)
+
+
+
 🚀 How to Use
 
     1. Clone the repository
